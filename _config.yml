@@ -1,2 +1,4 @@
 name: Zixi Liu
 markdown: kramdown
+
+theme: jekyll-theme-slate
